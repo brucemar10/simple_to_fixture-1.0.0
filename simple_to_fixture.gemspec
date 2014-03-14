@@ -8,15 +8,13 @@ Gem::Specification.new do |spec|
   spec.version       = SimpleToFixture::VERSION
   spec.authors       = ["Bruce Martin"]
   spec.email         = ["cyber.bruce@yahoo.com"]
-  spec.description   = %q{Simple and easily add a .to_fixure method to any ActiveRecord Model instance.}
- 
+  spec.description   = %q{Simple and easily add a .to_fixure method to any ActiveRecord Model instance.} 
   spec.summary       = %q{Adds a Model.to_fixture('one') to any ActiveRecord model, which 
                         automatically creates and appends to fixture files for quick 
                         testing of a real model.  
                         
                         Very handy for testing a new business problem or scenario, with
-                        a sample record that is having the problem.}
-  
+                        a sample record that is having the problem.}  
   spec.homepage      = "https://github.com/brucemar10/simple_to_fixture-1.0.0"
   spec.license       = "MIT"
   spec.rubyforge_project = "simple_to_fixture"
