@@ -1,3 +1,4 @@
+ 
 # SimpleToFixture
 
 Adds a Model.to_fixture('one') to any ActiveRecord model, which 
@@ -37,3 +38,9 @@ order.to_fixture('test_order_one')
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+simple_to_fixture-1.0.0
+=======================
+
+Simple ActiveRecord fixture creator
+ 
