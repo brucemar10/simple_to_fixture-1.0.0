@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
                         Very handy for testing a new business problem or scenario, with
                         a sample record that is having the problem.}
   
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/brucemar10/simple_to_fixture-1.0.0"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
