@@ -19,6 +19,6 @@ end
   
 
 class ActiveRecord::Base
-  include FixtureCreator::YAMLFixtures
+  include SimpleToFixture::YAMLFixtures
 end  
  
