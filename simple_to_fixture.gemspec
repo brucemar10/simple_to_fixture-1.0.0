@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   
   spec.homepage      = "https://github.com/brucemar10/simple_to_fixture-1.0.0"
   spec.license       = "MIT"
-
+  spec.rubyforge_project = "simple_to_fixture"
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
